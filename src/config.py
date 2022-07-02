@@ -4,6 +4,7 @@
  * @Last Modified by: alexander.huang
  * @Last Modified time: 2022-06-1 21:40:51
 '''
+
 import os
 
 SCREEN_WIDTH = 630
